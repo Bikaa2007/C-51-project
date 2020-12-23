@@ -1,0 +1,48 @@
+
+h1 {
+    color :  turquoise;
+}
+
+ h2 {
+     color : magenta;
+     font-size: large;
+ }
+
+ h3 {
+     color : purple;
+     font-size: large;
+ }
+
+ h4 {
+     color : crimson;
+     font-size: large;
+ }
+
+ .menu{
+     display : flex;
+     justify-content : space-between;
+     background-color : yellow;
+     
+ }
+
+ body{
+     margin: 0px;
+     baclground-color: cyan;
+    
+ }
+
+ .grid{
+     border: 2px solid #000000;
+     border-radius: 50px;
+ }
+
+ .origami{
+     border-radius: 20ps;
+     padding: 30px;
+     margin: 25px;
+     width: 310px;
+     
+ }
+
+ 
+
